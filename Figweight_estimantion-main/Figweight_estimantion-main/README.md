@@ -10,8 +10,8 @@ In commercial pig production, measuring body weight is one of the most important
 # System pipeline
 ![vgg16_xml-overall drawio](img/vgg16_xml-overall.drawio.png)
 
-![vgg16_xml drawio](img\yolo.png)
-VGG-16 architecture
+![vgg16_xml drawio](img/yolo.png)
+YOLOv8 architecture
 
 # Website interface
 

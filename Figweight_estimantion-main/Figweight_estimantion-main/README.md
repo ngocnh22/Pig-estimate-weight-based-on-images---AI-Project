@@ -8,7 +8,7 @@ Output: Pig detection and Weight of pigs.
 # Abstract 
 In commercial pig production, measuring body weight is one of the most important keys to monitor animal conditions including growth performance and health status. The pig's body weight can be used to determine the nutrient requirements, the drug dosages, and the time to market. However, to drive the pigs to weighing equipment is time-consuming and labor-intensive. This activity also induces pigs to become stressed or injured. Instead, body measurements such as heart girth and length have been applied to estimate live body weight. The studies showed a high positive correlation between body measurement and pig body weight. Based on that, we propose a system that uses deep learning to learn from images and estimate weight through heart length and circumference.
 # System pipeline
-![vgg16_xml-overall drawio]([vgg16_xml-overall.drawio.png.png](https://github.com/ngocnh22/Pig-estimate-weight-based-on-images---AI-Project/blob/main/Figweight_estimantion-main/Figweight_estimantion-main/img/vgg16_xml-overall.drawio.png))
+![vgg16_xml-overall drawio]((https://github.com/ngocnh22/Pig-estimate-weight-based-on-images---AI-Project/blob/main/Figweight_estimantion-main/Figweight_estimantion-main/img/vgg16_xml-overall.drawio.png))
 
 ![vgg16_xml drawio](https://user-images.githubusercontent.com/35287087/170050009-bff977af-0340-4799-a2f2-55a8454f48ba.png)
 VGG-16 architecture

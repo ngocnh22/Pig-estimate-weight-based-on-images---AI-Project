@@ -10,11 +10,12 @@ In commercial pig production, measuring body weight is one of the most important
 # System pipeline
 ![vgg16_xml-overall drawio](img/vgg16_xml-overall.drawio.png)
 
-![vgg16_xml drawio](https://user-images.githubusercontent.com/35287087/170050009-bff977af-0340-4799-a2f2-55a8454f48ba.png)
+![vgg16_xml drawio](img\yolo.png)
 VGG-16 architecture
 
 # Website interface
 
-![analysis1](https://user-images.githubusercontent.com/35287087/170050163-cecbc31f-0300-4d59-a31c-78c09ef506e1.png)
-![train](https://user-images.githubusercontent.com/35287087/170050187-73fb661a-864d-4563-ac61-763b34b35b63.png)
-![pred](https://user-images.githubusercontent.com/35287087/170050211-64b5db24-28a2-4ba4-850f-287ac4aeb976.png)
+![analysis1](img/1.png)
+![train](img/2.png)
+![train](img/3.png)
+![pred](img/4.png)
